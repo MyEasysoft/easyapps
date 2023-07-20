@@ -219,3 +219,4 @@ To dry run the script, run:
 ```
 
 If you really want to run the script (please note, this will really update all the listings in your marketplace!), use `--dry-run=false` option.
+"# easyapps" 
